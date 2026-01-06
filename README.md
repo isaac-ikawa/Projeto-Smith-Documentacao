@@ -1,12 +1,18 @@
-# 🤖 Projeto Smith
+# 🤖 🟡 Projeto Smith 🟡
 
-![Preview do Projeto](preview.png)
+## 📸 Demonstração
+<p align="center">
+  <img src="/preview.png" alt="Preview do Smith App" width="800"/>
+</p>
+> Projeto roda diretamente no navegador (Clicando em index.html)
+
+> (Necessário permitir acesso ao microfone)
 
 ## 🧩 Descrição
-Assistente virtual web desenvolvido para interação por voz diretamente no navegador, utilizando reconhecimento de fala, síntese de voz e animação visual reativa ao áudio.
+Assistente virtual web estático com JavaScript puro desenvolvido para interação por voz diretamente no navegador, utilizando reconhecimento de fala, síntese de voz e animação visual reativa ao áudio.
 
 ## 🎯 Objetivo
-Desenvolver um assistente virtual
+Assistente virtual
 
 ## 🛠️ Tecnologias Utilizadas
 - HTML5 (estrutura semântica)
@@ -35,5 +41,6 @@ Desenvolver um assistente virtual
 
 ## 📱 Compatibilidade
 Compatível com Google Chrome.
+
 ---
-Desenvolvido por **Isaac Ikawa** 👨‍💻
+Desenvolvido por **Isaac Ikawa** 😎
